@@ -377,23 +377,6 @@ NPV: $129,078 - $100,000 = $29,078 ✅
 
 ---
 
-## 🔐 Security & Privacy
-
-### Data Privacy
-- ✅ **No Data Storage**: All calculations are temporary
-- ✅ **No User Tracking**: Zero analytics or cookies
-- ✅ **Client-Side Processing**: Data never leaves your browser
-- ✅ **No Login Required**: Anonymous usage
-- ✅ **Open Source**: Transparent code
-
-### Security
-- ✅ **HTTPS Encrypted**: Secure connection
-- ✅ **No External APIs**: Self-contained calculations
-- ✅ **Input Validation**: Protection against errors
-- ✅ **Regular Updates**: Maintained and monitored
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -438,39 +421,6 @@ git push origin feature/amazing-feature
 - 🐍 [Python for Finance](https://www.python.org)
 - 📊 [Streamlit Documentation](https://docs.streamlit.io)
 - 📈 [Plotly Charts Guide](https://plotly.com/python/)
-
----
-
-## 🔮 Roadmap
-
-### Coming Soon
-- [ ] 🎲 **Monte Carlo Simulation** - Probabilistic analysis
-- [ ] 📊 **Multi-Project Comparison** - Side-by-side analysis
-- [ ] 📱 **Mobile App** - Native iOS/Android
-- [ ] 🌍 **Multi-Language Support** - Spanish, French, German
-- [ ] 💾 **Save Projects** - User accounts & history
-- [ ] 📄 **PDF Export** - Professional reports
-- [ ] 🔗 **API Access** - Integrate with other tools
-
-### In Progress
-- [x] ✅ Live deployment on Streamlit Cloud
-- [x] ✅ Comprehensive documentation
-- [ ] 📹 Video tutorials
-- [ ] 📊 Dashboard templates
-
----
-
-## 🏆 Recognition
-
-### Featured In
-- 🌟 [Streamlit Gallery](https://streamlit.io/gallery) (Pending)
-- 📱 [GitHub Trending](https://github.com/trending/python)
-- 💼 [Awesome Financial Tools](https://github.com/awesome-lists)
-
-### Stats
-- ⭐ **GitHub Stars**: Growing community
-- 👁️ **Live Users**: Real-time usage
-- 🔄 **Active Development**: Regular updates
 
 ---
 
@@ -544,28 +494,6 @@ Special thanks to the open-source community!
 
 ---
 
-## ⭐ Show Your Support
-
-If you find this project helpful:
-
-<div align="center">
-
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/capital-budgeting-calculator?style=social)](https://github.com/yourusername/capital-budgeting-calculator)
-[![Fork on GitHub](https://img.shields.io/github/forks/yourusername/capital-budgeting-calculator?style=social)](https://github.com/yourusername/capital-budgeting-calculator/fork)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-blue?style=social&logo=linkedin)](www.linkedin.com/in/mudassir-amir-)
-
-</div>
-
-- ⭐ **Star this repository**
-- 🍴 **Fork it for your projects**
-- 📢 **Share with your network**
-- 💬 **Give feedback**
-- ☕ **Buy me a coffee** (optional)
-
----
-
-<div align="center">
-
 ## 🚀 [Try It Now - No Installation Required](https://capital-budgeting-calculator.streamlit.app/)
 
 **Made with 💙 and Python | © 2025 Mudassir Amir**
@@ -576,18 +504,6 @@ If you find this project helpful:
 
 ---
 
-## 📈 Project Stats
-
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/capital-budgeting-calculator)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/capital-budgeting-calculator)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/capital-budgeting-calculator)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/capital-budgeting-calculator)
-
-</div>
-
----
 
 **⚠️ Disclaimer**: This tool is for educational and planning purposes. Always consult with qualified financial professionals for major investment decisions. Past performance does not guarantee future results.
 
