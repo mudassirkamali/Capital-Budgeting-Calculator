@@ -424,12 +424,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📞 Support & Contact
-
-### Get Help
-- 📧 **Email**: mudassirkamali56@gmail.com
-- 💼 **LinkedIn**: www.linkedin.com/in/mudassir-amir-
-
 ### FAQ
 
 <details>
